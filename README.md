@@ -1,5 +1,5 @@
 # PubMed-Sum
-Pubmed articles summarization project for NLP course.
+Pubmed articles summarization project for the 2020 NLP graduate course from the National University of Colombia.
 > By: Edwin Mahecha & Jimmmy Pulido
 
 ## Notebooks
