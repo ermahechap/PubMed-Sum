@@ -1,6 +1,6 @@
 # PubMed-Sum
 Pubmed articles summarization project for the 2020 NLP graduate course from the National University of Colombia.
-> By: Edwin Mahecha & Jimmmy Pulido
+> By: [Edwin Mahecha](https://github.com/ermahechap) & [Jimmmy Pulido](https://github.com/jiapulidoar)
 
 ## Notebooks
 The project comprises 3 notebooks:
